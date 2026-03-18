@@ -74,12 +74,14 @@ I am currently pursuing a B.Tech in Artificial Intelligence and Data Science, wi
 * Used TF-IDF + ML models
 
 ---
-
 ## 📫 Connect With Me
 
-📧 [sanikagajarishi2004@gmail.com](mailto:sanikagajarishi2004@gmail.com)
-🔗 linkedin.com/in/sanika-gajarishi-7a0583255
-💻 github.com/Sanu2707
+📧 <a href="mailto:sanikagajarishi2004@gmail.com">[sanikagajarishi2004@gmail.com](mailto:sanikagajarishi2004@gmail.com)</a>
+
+🔗 <a href="https://www.linkedin.com/in/sanika-gajarishi-7a0583255" style="color:#0A66C2;">linkedin.com/in/sanika-gajarishi-7a0583255</a>
+
+💻 <a href="https://github.com/Sanu2707" style="color:#171515;">github.com/Sanu2707</a>
+
 
 ---
 
