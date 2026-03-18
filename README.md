@@ -1,6 +1,16 @@
+<div align="center">
+
 # Hi 👋, I'm Sanika Gajarishi
 
 🎓 AI & Data Science Student | 💻 Aspiring Software Developer | 🇮🇳 India
+
+💡 Passionate about building AI solutions & solving real-world problems
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Student;Aspiring+Developer;LeetCode+Problem+Solver;ML+%7C+NLP+Enthusiast" />
+</p>
 
 ---
 
@@ -9,9 +19,11 @@
 Hi 👋 I'm Sanika
 
 * 🎓 Pursuing B.Tech in AI & Data Science
-* 💡 Passionate about building real-world AI solutions
 * 🧠 Strong in Data Structures & Algorithms
-* 🤝 Love working on team projects and collaborations
+* 💻 Solving problems on LeetCode regularly
+* 🤖 Interested in Machine Learning, NLP & Generative AI
+* 🚀 Building real-world projects step by step
+* 🤝 Open to collaborations and learning opportunities
 
 ---
 
@@ -44,6 +56,13 @@ Hi 👋 I'm Sanika
 
 ---
 
+## 🧠 Coding Practice
+
+💻 I regularly solve problems on **LeetCode** to improve my problem-solving skills
+🚀 Focused on mastering Data Structures & Algorithms
+
+---
+
 ## 🚀 Projects
 
 ### 📄 Document Analysis using RAG Pipeline
@@ -63,23 +82,6 @@ Hi 👋 I'm Sanika
 
 ---
 
-## 🏆 Experience
-
-💼 Associate Software Engineer Intern @ ThynkTech
-
-* Worked on NLP & ML models
-* Built text classification systems
-* Used NLTK & spaCy for preprocessing
-
----
-
-## 📜 Certifications
-
-* Google Cloud – Generative AI Fundamentals
-* Google Cloud – Introduction to LLMs
-
----
-
 ## 📫 Connect With Me
 
 📧 [sanikagajarishi2004@gmail.com](mailto:sanikagajarishi2004@gmail.com)
@@ -91,4 +93,6 @@ Hi 👋 I'm Sanika
 ## ⚡ Fun Fact
 
 💡 I believe in learning step by step and improving every day 🚀
+
+
 
