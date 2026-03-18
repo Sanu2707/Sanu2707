@@ -16,7 +16,17 @@ AI Student | Problem Solver | ML & NLP Enthusiast
 
 ## 🚀 About Me
 
-I am currently pursuing a B.Tech in Artificial Intelligence and Data Science, with a strong foundation in Data Structures and Algorithms. I enjoy solving problems on LeetCode regularly, which helps me strengthen my logical thinking and coding skills. My interests lie in Machine Learning, Natural Language Processing, and Generative AI, and I am actively working on building real-world projects step by step. I am always eager to learn new technologies and collaborate on meaningful projects.
+🎓 Pursuing B.Tech in AI & Data Science
+
+🧠 Strong in Data Structures & Algorithms
+
+💻 Solving problems on LeetCode regularly
+
+🤖 Interested in Machine Learning, NLP & Generative AI
+
+🚀 Building real-world projects step by step
+
+🤝 Open to collaborations and learning opportunities
 
 ---
 
