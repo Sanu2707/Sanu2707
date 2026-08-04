@@ -1,104 +1,193 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sanika Gajarishi</h1>
 
-# Hi 👋, I'm Sanika Gajarishi
+<h3 align="center">
+AI & Machine Learning Engineer | Generative AI | NLP | RAG Systems | India 🇮🇳
+</h3>
 
-🎓 AI & Data Science Student | 🇮🇳 India
-
-💡 Passionate about building AI solutions & solving real-world problems
-
-<p>
-AI Student | Problem Solver | ML & NLP Enthusiast
+<p align="center">
+Passionate about building intelligent AI applications that solve real-world problems through Machine Learning, Natural Language Processing, and Generative AI.
 </p>
 
-</div>
+---
+
+## 👩‍💻 About Me
+
+🎓 B.Tech Graduate in Artificial Intelligence & Data Science
+
+🤖 Passionate about Machine Learning, NLP, LLMs, and Generative AI
+
+🧠 Strong foundation in Data Structures, Algorithms, Python, and SQL
+
+📚 Interested in building AI systems using Retrieval-Augmented Generation (RAG), Vector Databases, and LLMs
+
+🚀 Love building end-to-end AI applications that solve real-world challenges
+
+🤝 Open to AI/ML Engineer, Machine Learning Engineer, NLP Engineer, and Data Science opportunities
 
 ---
 
-## 🚀 About Me
+## 🌱 Currently Exploring
 
-🎓 Pursuing B.Tech in AI & Data Science
-
-🧠 Strong in Data Structures & Algorithms
-
-💻 Solving problems on LeetCode regularly
-
-🤖 Interested in Machine Learning, NLP & Generative AI
-
-🚀 Building real-world projects step by step
-
-🤝 Open to collaborations and learning opportunities
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Multi-Agent Systems
+- Deep Learning
+- MLOps Fundamentals
+- Vector Databases
+- AI System Design
 
 ---
 
-## 🌱 Currently Learning
+# 💻 Tech Stack
 
-* 🤖 Machine Learning & Deep Learning
-* 🔍 NLP & LLMs (LangChain, RAG)
-* 🏗️ System Design Basics
-* 📊 Data Engineering
+### 👩‍💻 Programming Languages
 
----
+- Python
+- Java
+- SQL
 
-## 💻 Tech Stack
+### 🤖 AI & Machine Learning
 
-### 👩‍💻 Languages
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Feature Engineering
 
-`Python` `Java` `SQL`
+### 📚 Libraries & Frameworks
 
-### 🤖 AI/ML
+- Pandas
+- NumPy
+- Scikit-learn
+- NLTK
+- Sentence Transformers
+- LangChain
+- ChromaDB
+- FAISS
+- Google Gemini API
 
-`Machine Learning` `NLP` `RAG` `Feature Engineering`
+### 🌐 Frameworks
 
-### 🧰 Libraries & Tools
+- FastAPI
+- Streamlit
+- Flask
 
-`Pandas` `NumPy` `Scikit-learn` `NLTK` `LangChain`
+### 🛠️ Developer Tools
 
-### ⚙️ Tools
-
-`Git` `GitHub` `Jupyter Notebook`
-
----
-
-## 🧠 Coding Practice
-
-💻 Regularly solving problems on **LeetCode** to improve problem-solving skills
-🚀 Focused on mastering Data Structures & Algorithms
-
----
-
-## 🚀 Projects
-
-### 📄 Document Analysis using RAG Pipeline
-
-* Built a system to answer queries from documents
-* Used embeddings + vector database + Gemini API
-
-### 🤖 AI Price Negotiation Chatbot
-
-* Full-stack chatbot for product recommendation
-* Built using Flask + React + NLP
-
-### 📰 Fake News Detection
-
-* Achieved 90%+ accuracy
-* Used TF-IDF + ML models
-
----
-## 📫 Connect With Me
-
-📧 <a href="mailto:sanikagajarishi2004@gmail.com">[sanikagajarishi2004@gmail.com](mailto:sanikagajarishi2004@gmail.com)</a>
-
-🔗 <a href="https://www.linkedin.com/in/sanika-gajarishi-7a0583255" style="color:#0A66C2;">linkedin.com/in/sanika-gajarishi-7a0583255</a>
-
-💻 <a href="https://github.com/Sanu2707" style="color:#171515;">github.com/Sanu2707</a>
-
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+- Docker
+- Postman
 
 ---
 
-## ⚡ Fun Fact
+# 🚀 Featured Projects
 
-💡 I believe in learning step by step and improving every day 🚀
+## 🧠 AI Memory Assistant
 
+An intelligent memory management system that allows users to store, retrieve, and manage conversations using semantic search powered by vector embeddings.
 
+**Key Features**
 
+- Semantic Memory Search
+- Vector Database Integration
+- User Authentication
+- Memory Management Dashboard
+- FastAPI Backend
+- Streamlit Frontend
 
+**Tech Stack**
+
+Python • FastAPI • Streamlit • ChromaDB • Sentence Transformers • Gemini API • SQLAlchemy • PostgreSQL
+
+---
+
+## 📄 Intelligent Document Analysis using RAG
+
+Built a Retrieval-Augmented Generation (RAG) system capable of answering questions from uploaded documents with context-aware responses.
+
+**Key Features**
+
+- PDF Processing
+- Semantic Search
+- Vector Embeddings
+- Document Question Answering
+- Multi-document Retrieval
+
+**Tech Stack**
+
+Python • LangChain • FAISS • Sentence Transformers • Gemini API • FastAPI • Streamlit
+
+---
+
+## 📱 AI Social Media Content Agent
+
+Developed an AI-powered platform that analyzes articles and automatically generates engaging social media posts while allowing users to save and manage drafts.
+
+**Key Features**
+
+- AI Content Generation
+- URL Analysis
+- Draft Management
+- Content Editing
+- REST APIs
+
+**Tech Stack**
+
+Python • FastAPI • React • SQLite • SQLAlchemy • Gemini API • Vite
+
+---
+
+## 📊 AI Policy Intelligence Dashboard
+
+Developed an AI-powered dashboard for searching, retrieving, and analyzing renewable energy policy documents using semantic search and LLM-powered responses.
+
+**Key Features**
+
+- Automated Policy Collection
+- PDF Processing
+- Semantic Search
+- AI Question Answering
+- Vector Database Search
+
+**Tech Stack**
+
+Python • FastAPI • LangChain • FAISS • Google Drive API • Gemini API • React
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+sanikagajarishi2004@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/sanika-gajarishi-7a0583255
+
+💻 **GitHub**
+
+https://github.com/Sanika-Gajarishi
+
+---
+
+## ⚡ Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing
+- Generative AI
+- LLM Applications
+- AI Agents
+- Data Science
+
+---
+
+<p align="center">
+⭐ Always learning, building, and exploring the future of Artificial Intelligence.
+</p>
