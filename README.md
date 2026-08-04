@@ -40,50 +40,72 @@ Passionate about building intelligent AI applications that solve real-world prob
 
 # 💻 Tech Stack
 
-### 👩‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
 - Python
 - Java
 - SQL
 
-### 🤖 AI & Machine Learning
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
 
 - Machine Learning
 - Deep Learning
 - Natural Language Processing (NLP)
 - Generative AI
-- Prompt Engineering
 - Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
 - Feature Engineering
 
-### 📚 Libraries & Frameworks
+---
 
+### 📚 AI Libraries & Frameworks
+
+- Scikit-learn
 - Pandas
 - NumPy
-- Scikit-learn
 - NLTK
 - Sentence Transformers
 - LangChain
-- ChromaDB
-- FAISS
 - Google Gemini API
 
-### 🌐 Frameworks
+---
+
+### 🗄️ Databases & Vector Databases
+
+- PostgreSQL
+- SQLAlchemy
+- ChromaDB
+- FAISS
+- SQLite
+
+---
+
+### 🚀 Backend Development
 
 - FastAPI
-- Streamlit
 - Flask
+- REST APIs
+- Pydantic
+
+---
+
+### 🎨 Frontend
+
+- React
+- Vite
+- Streamlit
+
+---
 
 ### 🛠️ Developer Tools
 
 - Git
 - GitHub
+- Docker
 - Jupyter Notebook
 - VS Code
-- Docker
-- Postman
-
----
 
 # 🚀 Featured Projects
 
@@ -106,24 +128,6 @@ Python • FastAPI • Streamlit • ChromaDB • Sentence Transformers • Gemi
 
 ---
 
-## 📄 Intelligent Document Analysis using RAG
-
-Built a Retrieval-Augmented Generation (RAG) system capable of answering questions from uploaded documents with context-aware responses.
-
-**Key Features**
-
-- PDF Processing
-- Semantic Search
-- Vector Embeddings
-- Document Question Answering
-- Multi-document Retrieval
-
-**Tech Stack**
-
-Python • LangChain • FAISS • Sentence Transformers • Gemini API • FastAPI • Streamlit
-
----
-
 ## 📱 AI Social Media Content Agent
 
 Developed an AI-powered platform that analyzes articles and automatically generates engaging social media posts while allowing users to save and manage drafts.
@@ -139,24 +143,6 @@ Developed an AI-powered platform that analyzes articles and automatically genera
 **Tech Stack**
 
 Python • FastAPI • React • SQLite • SQLAlchemy • Gemini API • Vite
-
----
-
-## 📊 AI Policy Intelligence Dashboard
-
-Developed an AI-powered dashboard for searching, retrieving, and analyzing renewable energy policy documents using semantic search and LLM-powered responses.
-
-**Key Features**
-
-- Automated Policy Collection
-- PDF Processing
-- Semantic Search
-- AI Question Answering
-- Vector Database Search
-
-**Tech Stack**
-
-Python • FastAPI • LangChain • FAISS • Google Drive API • Gemini API • React
 
 ---
 
